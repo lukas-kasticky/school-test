@@ -3,3 +3,4 @@
 if __name__ == "__main__":
     print("Hello, World!")
 
+    print("Hallo Lukas, ich manipulier deinen Code")
